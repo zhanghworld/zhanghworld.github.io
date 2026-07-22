@@ -4,6 +4,8 @@ facebook.com, 1011807736950953, DIRECT, c3e20eee3f780d68
 applovin.com, 5d7088549059a0ceb54908632c74af93, DIRECT
 
 #add 20260701
+pubmatic.com, 168233,DIRECT, 5d62403b186f2ace
+#add 20260701
 applovin.com, a7a350fd3c165441eb95c8e9e2db6df1, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 bidease.com, bidease_seller_26, RESELLER
