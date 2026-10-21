@@ -5,6 +5,7 @@ applovin.com, 5d7088549059a0ceb54908632c74af93, DIRECT
 
 #add 20260910
 pubmatic.com, 168233,DIRECT, 5d62403b186f2ace
+pubmatic.com, 168233, DIRECT, 5d62403b186f2ace
 #add 20260910
 applovin.com, a7a350fd3c165441eb95c8e9e2db6df1, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
@@ -778,6 +779,7 @@ zoomd.com,88478941,RESELLER
 #add 20260910
 ironsrc.com, 217813, Direct
 ironsrc.com, 217813, DIRECT
+indexexchange.com, 216401, RESELLER, 50b1c356f2c5c8fc
 blueseasx.com, 203625, RESELLER
 rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
 pubnative.net, 1009966, RESELLER, d641df8625486a7b
@@ -3458,6 +3460,16 @@ yahoo.com, 58779, DIRECT
 rubiconproject.com, 22830, RESELLER, 0bfd66d529a55807
 
 bigo.sg, 1116404, DIRECT
+bigo.sg,4uyhv0kshs,DIRECT
+bigo.sg, q9hk29ki8d, RESELLER
+triplelift.com, 14819, RESELLER, 6c33edb13117fd86
+triplelift.com, 14819-EB, RESELLER, 6c33edb13117fd86
+programmaticx.ai, 10568600, RESELLER, b42d42eb28400efa
+targetbetter.com, 610568600, RESELLER
+programmaticx.ai, 100682, DIRECT, b42d42eb28400efa
+targetbetter.com, 6481, DIRECT
+copper6.com, 766216, RESELLER
+carliba.io, 184103, RESELLER
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 inmobi.com, edd282ac8f29464792bf2b7f3df2f9df, RESELLER, 83e75a7ae333ca9d
 pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
